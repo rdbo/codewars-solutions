@@ -1,3 +1,5 @@
+# Challenge: https://www.codewars.com/kata/551f23362ff852e2ab000037/train/python
+
 def climb(pyramid, i, j):
     if i == 0:
         return []
